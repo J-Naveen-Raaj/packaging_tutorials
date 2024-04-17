@@ -1,0 +1,18 @@
+[project]
+name = "packaging_jnaveenraaj"
+version = "0.0.1"
+authors = [
+  { name="J Naveen Raaj", email="naveen.raaj@tigeranalytics.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/J-Naveen-Raaj/packaging_tutorials"
+Issues = "https://github.com/J-Naveen-Raaj/packaging_tutorials/issues"
